@@ -409,22 +409,22 @@ section .title::after{
     background: rgb(15, 68, 88);
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 70%;
+    width: 100%;
 }
 .skills-content .right .js::before{
     width: 80%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 100%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
 }
 .skills-content .right .react::before{
-    width: 50%;
+    width: 85%;
 }
 
 /* projects section styling */
